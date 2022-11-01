@@ -1,7 +1,7 @@
 # Pizza-Sales-EDA
 A detailed analysis on maven pizza analysis by Python
 
-In this project i have analized pizza sales throghout the year and presented my related findings using python(numpy, pandas, seaborn).
+In this project i have analized plato's pizza sales throghout the year and presented my related findings using python(numpy, pandas, seaborn).
 
 This project uses a xlsx file which contains all the information we want about the pizza sales and then use other libraries such as Pandas, matplotlib , seaborn and emoji to wrangle the data.
 
